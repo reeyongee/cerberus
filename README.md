@@ -10,7 +10,9 @@ The goal is to build a rich modular event access control management system with 
 
 <details>
 <summary>Click to view log (Scrollable)</summary>
+
 ```
+
 test
 1
 2
@@ -20,5 +22,7 @@ test
 6
 7
 8
+
 ```
+
 </details>

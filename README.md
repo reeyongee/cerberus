@@ -8,3 +8,4 @@ The goal is to build a rich modular event access control management system with 
 
 Aakash
 Jaishnav
+Skanda

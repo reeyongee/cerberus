@@ -8,7 +8,8 @@ The goal is to build a rich modular event access control management system with 
 
 ## Log
 
-<div style="max-height: 4rem; overflow: auto;">
+<details>
+<summary>Click to view log (Scrollable)</summary>
 ```
 test
 1
@@ -20,4 +21,4 @@ test
 7
 8
 ```
-</div>
+</details>
